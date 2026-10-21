@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" width="220" height="100">
+  <rect width="220" height="100" rx="24" fill="#ffffff"/>
+  <!-- Circular badge with red border -->
+  <g transform="translate(110, 50)">
+    <circle cx="0" cy="0" r="42" fill="#fffb14" stroke="#e31828" stroke-width="4.5"/>
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#e31828" stroke-width="1.5" stroke-dasharray="2 2"/>
+    <!-- Rooster Top Hat -->
+    <path d="M -16 -18 L 16 -18 L 13 -33 L -13 -33 Z" fill="#e31828"/>
+    <path d="M -22 -17 L 22 -17 L 22 -13 L -22 -13 Z" fill="#e31828"/>
+    <rect x="-14" y="-23" width="28" height="5" fill="#fffb14"/>
+    <!-- Rooster Face -->
+    <path d="M -15 -12 Q 0 -17 15 -12 Q 22 2 12 14 Q 0 20 -12 14 Q -22 2 -15 -12 Z" fill="#ffffff" stroke="#e31828" stroke-width="1.5"/>
+    <!-- Beak & Comb -->
+    <path d="M 0 -2 L 14 3 L 0 8 Z" fill="#ff7f00"/>
+    <path d="M -4 2 Q -4 10 1 12 Q 3 9 1 3 Z" fill="#e31828"/>
+    <!-- Eyes -->
+    <circle cx="-6" cy="-3" r="3" fill="#e31828"/>
+    <circle cx="4" cy="-3" r="2.5" fill="#e31828"/>
+    <circle cx="-5" cy="-4" r="1" fill="#ffffff"/>
+    <!-- Bow tie -->
+    <path d="M -10 17 L -1 20 L -1 25 L -10 27 Z" fill="#e31828"/>
+    <path d="M 10 17 L 1 20 L 1 25 L 10 27 Z" fill="#e31828"/>
+    <circle cx="0" cy="22" r="2.5" fill="#e31828"/>
+    <!-- Arabic ALBAIK text below mascot -->
+    <text x="0" y="38" font-family="'Kufam', Arial, sans-serif" font-size="14" font-weight="900" fill="#e31828" text-anchor="middle" direction="rtl">البيك</text>
+  </g>
+</svg>

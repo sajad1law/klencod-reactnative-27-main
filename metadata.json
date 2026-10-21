@@ -1,0 +1,6 @@
+{
+  "name": "Khaleeji 27 - Jeddah 2026",
+  "description": "Official Khaleeji 27 Football Tournament Game in Jeddah 2026. Complete arcade football simulation featuring all 8 Gulf nations, authentic brand identity, group fixtures, dynamic standings, knockout stages, and local multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

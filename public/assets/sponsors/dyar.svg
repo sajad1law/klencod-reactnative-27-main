@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" width="220" height="100">
+  <rect width="220" height="100" rx="24" fill="#ffffff"/>
+  <!-- Arch Gate Symbol on the right -->
+  <g transform="translate(155, 24)" fill="#0e2a4a">
+    <path d="M 5 52 L 5 22 C 5 10 16 0 30 0 C 44 0 52 10 52 22 L 52 52 L 44 52 L 44 24 C 44 14 38 7 30 7 C 22 7 13 14 13 24 L 13 52 Z"/>
+    <path d="M 23 52 L 23 32 C 23 26 27 21 33 21 C 37 21 40 24 41 27 C 36 29 33 34 33 40 L 33 52 Z"/>
+  </g>
+  <!-- Text on the left -->
+  <g fill="#0e2a4a" text-anchor="middle">
+    <text x="82" y="47" font-family="'Kufam', 'Noto Sans Arabic', Arial, sans-serif" font-size="20" font-weight="900" direction="rtl">الديار العربية</text>
+    <text x="82" y="70" font-family="'Arial Black', Impact, sans-serif" font-size="10.5" font-weight="800" letter-spacing="1.5">ARABIAN DYAR</text>
+  </g>
+</svg>

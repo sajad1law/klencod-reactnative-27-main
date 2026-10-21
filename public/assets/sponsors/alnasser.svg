@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" width="220" height="100">
+  <rect width="220" height="100" rx="24" fill="#005ea6"/>
+  <!-- Looping Ribbon N emblem in oval ring on the right -->
+  <g transform="translate(142, 28)">
+    <ellipse cx="32" cy="22" rx="36" ry="19" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.85"/>
+    <path d="M 12 36 L 24 8 L 32 8 L 20 36 Z" fill="#ffffff"/>
+    <path d="M 23 8 L 44 36 L 36 36 L 16 8 Z" fill="#ffffff"/>
+    <path d="M 36 8 L 46 8 L 34 36 L 24 36 Z" fill="#ffffff"/>
+    <text x="56" y="10" font-family="sans-serif" font-size="7" fill="#ffffff">®</text>
+  </g>
+  <!-- Text on the left -->
+  <g fill="#ffffff" text-anchor="middle">
+    <text x="75" y="44" font-family="'Kufam', 'Noto Sans Arabic', Arial, sans-serif" font-size="24" font-weight="900" direction="rtl">النصر</text>
+    <text x="75" y="64" font-family="'Arial Black', Impact, sans-serif" font-size="12" font-weight="900" letter-spacing="0.5">ALNASSER</text>
+    <text x="75" y="77" font-family="sans-serif" font-size="7" font-weight="700" letter-spacing="1" opacity="0.8">SINCE 1970</text>
+  </g>
+</svg>
